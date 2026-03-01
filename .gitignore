@@ -27,3 +27,4 @@ bin/
 
 ### Mac OS ###
 .DS_Store
+.file_activity_report.json
